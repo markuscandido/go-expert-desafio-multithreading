@@ -1,0 +1,15 @@
+# Binários
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Arquivo de saída do teste
+*.test
+
+# Binário do projeto
+go-expert-desafio-multithreading
+
+# Diretórios de build
+/vendor/
